@@ -209,8 +209,8 @@ Monthly prices are on the website: **[see pricing →](https://kinelight.brnzy.c
 
 ## About this repository
 
-This is Kinelight's public home on GitHub: this page and the **[releases](https://github.com/samjosephburns94-sys/kinelight.app/releases)**
-of the Mac app. The app's source and the website are private.
+This is Kinelight's public home on GitHub: this page, the **[releases](https://github.com/samjosephburns94-sys/kinelight.app/releases)**
+of the Mac app and the **[changelog](CHANGELOG.md)**. The app's source and the website are private.
 
 Found a problem or have an idea? Send it from **Kinelight → Account** in the app, or through
 [the website](https://kinelight.brnzy.co.uk).
