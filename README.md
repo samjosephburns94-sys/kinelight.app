@@ -173,7 +173,7 @@ the Open Fixture Library, import Avolites or JSON profiles, import a venue's fix
 Both plans include a main Mac and a backup Mac. Change plan whenever you like — your Macs pick it up within half a
 minute.
 
-| | **Kinelight**<br>£49.99 / month | **Kinelight Pro**<br>£99 / month |
+| | **Kinelight** | **Kinelight Pro** |
 |---|:---:|:---:|
 | Control: groups, faders, GO, looks | ✓ | ✓ |
 | Patch 670 fixture profiles | ✓ | ✓ |
@@ -188,7 +188,7 @@ minute.
 | Camera tracking | | ✓ |
 | AI looks | | ✓ |
 
-[Choose a plan →](https://kinelight.brnzy.co.uk/pricing)
+Monthly prices are on the website: **[see pricing →](https://kinelight.brnzy.co.uk/pricing)**
 
 ## Requirements
 
